@@ -1,5 +1,6 @@
 body {
 	font-size: 100%;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
 }
 
 header {
@@ -7,7 +8,11 @@ header {
 	font-size: 200%;
 	margin-top: 0.5em;
 	margin-bottome: 0.5em;
-	margin: auto;
+	font-family: "Lucida Bright", Georgia, serif;;
+}
+
+span.myname {
+	margin-left: 2em;
 }
 
 div.page {
