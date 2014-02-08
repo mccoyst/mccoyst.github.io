@@ -2,6 +2,11 @@ body {
 	font-size: 100%;
 }
 
+header {
+	background-color: rgb(244,247,248);
+	font-size: 200%;
+}
+
 div.page {
 	width: 20em;
 	margin: auto;
