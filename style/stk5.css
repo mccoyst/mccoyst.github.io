@@ -5,6 +5,9 @@ body {
 header {
 	background-color: rgb(244,247,248);
 	font-size: 200%;
+	margin-top: 0.5em;
+	margin-bottome: 0.5em;
+	margin: auto;
 }
 
 div.page {
