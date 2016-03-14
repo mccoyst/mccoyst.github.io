@@ -22,9 +22,13 @@ div.page {
 }
 
 a:link {
-	color: #0080FF;
+	color: #000;
 }
 
 a:visited {
-	color: #004080;
+	color: #000;
+}
+
+h1 {
+	font-size: 125%;
 }
