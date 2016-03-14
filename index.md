@@ -2,7 +2,7 @@
 layout: basic
 title: Steve McCoy
 ---
-Works in Progress
+Works in progress
 =================
 
  * <a href="bmd/">Bass Mystery Dungeon</a> is some kind of roguelike.
