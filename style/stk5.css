@@ -22,10 +22,12 @@ div.page {
 }
 
 a:link {
+	font-size: 100%;
 	color: #000;
 }
 
 a:visited {
+	font-size: 100%;
 	color: #000;
 }
 
@@ -35,7 +37,7 @@ h1 {
 }
 
 dt {
-	font-size: 13pt;
+	font-size: 100%;
 	overflow: hidden;
 	float: left;
 	margin: 0 .2em;
