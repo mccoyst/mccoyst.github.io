@@ -17,7 +17,7 @@ span.myname {
 }
 
 div.page {
-	width: 40em;
+	max-width: 40em;
 	margin: auto;
 }
 
