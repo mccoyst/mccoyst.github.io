@@ -21,3 +21,10 @@ div.page {
 	margin: auto;
 }
 
+a:link {
+	color: #0080FF;
+}
+
+a:visited {
+	color: #004080;
+}
