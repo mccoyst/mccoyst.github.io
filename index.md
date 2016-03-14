@@ -2,6 +2,13 @@
 layout: basic
 title: Steve McCoy
 ---
+Sub-sites
+=========
+These are fully-functional webapps:
+ * [Magpie](//magpie.mccoy.space) is a link bookmarker.
+ * [Itsapad](//paste.mccoy.space) is a minimal text paster.
+ * [Feedme](//feed.mccoy.space) is an RSS reader.
+
 Works that work
 ===============
 These are some projects of mine that are worth using:
@@ -16,10 +23,3 @@ These are some projects of mine that are incomplete, but actively developed (if 
  * [Bass Mystery Dungeon](bmd/) is some kind of roguelike.
  * [pngplus](https://github.com/mccoyst/pngplus) is a Go package for adding arbitrary metadata (such as game state) to PNGs.
  * [vorbis](https://github.com/mccoyst/vorbis) is a Go package (using cgo but no dynamic linking) for decoding ogg vorbis. It works as-is, but someday it will be 100% Go.
-
-Sub-sites
-=========
-These are fully-functional webapps:
- * [Magpie](//magpie.mccoy.space) is a link bookmarker.
- * [Itsapad](//paste.mccoy.space) is a minimal text paster.
- * [Feedme](//feed.mccoy.space) is an RSS reader.
