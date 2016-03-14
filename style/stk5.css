@@ -36,8 +36,8 @@ h1 {
 
 dt {
 	overflow: hidden;
-    float: left;
-    margin: 0 .2em;
+	float: left;
+	margin: 0 .2em;
 }
 
 dt:after {
@@ -45,7 +45,7 @@ dt:after {
 }
 
 dd {
-    word-wrap: break-word;
+	word-wrap: break-word;
 	overflow: hidden;
 }
 
