@@ -1,7 +1,7 @@
 body {
 	margin: 0;
-	font-size: 100%;
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	font-size: 13pt;/*100%;*/
+	font-family: "Avenir", "Helvetica Neue", "Helvetica", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
 }
 
 header {
@@ -9,15 +9,15 @@ header {
 	font-size: 200%;
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
-	font-family: "Lucida Bright", Georgia, serif;
+	font-family: "Athelas", "Lucida Bright", Georgia, serif;
 }
 
 span.myname {
-	margin-left: 2em;
+	margin-left: 1em;
 }
 
 div.page {
-	width: 20em;
+	width: 40em;
 	margin: auto;
 }
 
@@ -32,4 +32,23 @@ a:visited {
 h1 {
 	font-size: 125%;
 	padding-top: 1em;
+}
+
+dt {
+	overflow: hidden;
+    float: left;
+    margin: 0 .2em;
+}
+
+dt:after {
+	content: ' is ';
+}
+
+dd {
+    word-wrap: break-word;
+	overflow: hidden;
+}
+
+dd:after {
+	content: '.';
 }
