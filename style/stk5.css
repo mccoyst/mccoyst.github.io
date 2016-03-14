@@ -36,23 +36,11 @@ h1 {
 	padding-top: 1em;
 }
 
-dt {
-	font-size: 100%;
-	overflow: hidden;
-	float: left;
-	margin: 0 .2em;
+
+li {
+	list-style: none;
 }
 
-dt:after {
-	content: ' is ';
-}
-
-dd {
-	font-size: 100%;
-	word-wrap: break-word;
-	overflow: hidden;
-}
-
-dd:after {
-	content: '.';
+ul {
+	padding-left: 0;
 }
