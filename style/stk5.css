@@ -1,7 +1,9 @@
+@import url(https://code.cdn.mozilla.net/fonts/fira.css);
+
 body {
 	margin: 0;
 	font-size: 14pt;
-	font-family: "Avenir", "Helvetica Neue", "Helvetica", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	font-family: "Fira Sans", sans-serif;
 }
 
 header {
