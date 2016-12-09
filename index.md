@@ -24,5 +24,4 @@ Works in progress
 =================
 These are some projects of mine that are incomplete, but actively developed (if *very* slowly):
 
- * [Bass Mystery Dungeon](bmd/) is some kind of roguelike.
  * [vorbis](https://github.com/mccoyst/vorbis) is a Go package (using cgo but no dynamic linking) for decoding ogg vorbis. It works as-is, but someday it will be 100% Go.
