@@ -22,6 +22,8 @@ span.myname {
 div.page {
 	max-width: 40em;
 	margin: auto;
+	padding-left: 1.25em;
+	padding-right: 1.25em;
 }
 
 a:link {
