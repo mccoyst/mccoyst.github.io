@@ -24,5 +24,5 @@ Works in progress
 =================
 These are some projects of mine that are incomplete, but actively developed (if *very* slowly):
 
- * [Dumbhome](https://github.com/mccoyst/dumbhome) is a silly project that uses the [Raspberry Pi](https://www.raspberrypi.org) [Sense HAT](https://www.raspberrypi.org/products/sense-hat/) to let me know when it's OK to use my heat or air conditioner.
+ * [Dumb Home](https://github.com/mccoyst/dumbhome) is a silly project that uses the [Raspberry Pi](https://www.raspberrypi.org) [Sense HAT](https://www.raspberrypi.org/products/sense-hat/) to let me know when it's OK to use my heat or air conditioner.
  * [vorbis](https://github.com/mccoyst/vorbis) is a Go package (using cgo but no dynamic linking) for decoding ogg vorbis. It works as-is, but someday it will be 100% Go.
