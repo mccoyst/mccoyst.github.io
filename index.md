@@ -10,6 +10,10 @@ These are fully-functional webapps:
  * [Itsapad](//paste.mccoy.space) is a minimal text paster.
  * [Feedme](//feed.mccoy.space) is an RSS reader.
 
+Web Log
+=======
+[By "popular" demand.](/web-log)
+
 Works that work
 ===============
 These are some projects of mine that are worth using:
